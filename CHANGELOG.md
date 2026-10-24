@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.4 — 2026-10-24
+
+**Anniversari dai Contatti**
+- *Nuovo* — Impostazioni › Generale › "Mostra gli anniversari dei Contatti": le date aggiunte ai contatti (Anniversario, Matrimonio, Fidanzamento…) compaiono ogni anno come eventi di tutto il giorno, con gli anni trascorsi quando la data ha l'anno.
+
+*English* — **Anniversaries from Contacts**
+- *New* — Settings › General › "Show anniversaries from Contacts": the dates added to contacts (Anniversary, Wedding, Engagement…) appear every year as all-day events, with the years elapsed when the date has a year.
+
 ## 1.5.3 — 2026-10-24
 
 **Nuova icona**
