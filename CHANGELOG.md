@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.2 — 2026-10-24
+
+**Aggiornamenti automatici**
+- *Nuovo* — UltraCal controlla una volta al giorno se su GitHub c'è una nuova versione e, se vuoi, la scarica e la installa da sola (solo versioni firmate e notarizzate). Si può disattivare in Impostazioni › Generale; il controllo manuale è nel menu UltraCal › Controlla aggiornamenti…
+
+*English* — **Automatic updates**
+- *New* — Once a day UltraCal checks GitHub for a new version and, if you want, downloads and installs it by itself (only signed and notarized versions). You can turn it off in Settings › General; the manual check is in the UltraCal › Check for Updates… menu.
+
 ## 1.5.1 — 2026-10-24
 
 **App firmata e notarizzata da Apple**
