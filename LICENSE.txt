@@ -1,0 +1,60 @@
+ULTRACAL — LICENZA D'USO GRATUITO
+© 2026 Alessandro Censi
+
+UltraCal è un'applicazione libera e gratuita: tutti possono averla, usarla e scambiarsela. L'unica cosa che non si può fare è guadagnarci vendendola o noleggiandola.
+
+1. Cosa puoi fare, gratuitamente:
+   • installare e usare UltraCal su tutti i Mac che vuoi, per uso personale, professionale, didattico o associativo;
+   • copiarla e condividerla liberamente con chiunque (amici, colleghi, studenti, associazioni, siti e gruppi), anche pubblicandola online, purché gratis e così com'è, cioè il file originale con questa licenza.
+
+2. Cosa non puoi fare:
+   • vendere UltraCal o farla pagare in qualsiasi forma (prezzo, noleggio, abbonamento, "contributo obbligatorio" per scaricarla);
+   • includerla a pagamento in pacchetti, raccolte o servizi, o usarla come merce per trarne un guadagno;
+   • modificarla, decompilarla o ridistribuirne versioni alterate, salvo quanto consentito espressamente dalla legge;
+   • togliere o cambiare il nome dell'autore, le indicazioni di copyright o questa licenza.
+
+3. I tuoi dati. Calendari, eventi, promemoria e attività restano tuoi. UltraCal li legge tramite il sistema del Mac e non li invia a server esterni; per il meteo chiede le previsioni a Open-Meteo indicando solo il luogo, e Todoist si collega solo se lo attivi tu.
+
+4. Autore. UltraCal, il suo codice, l'icona, il nome e la documentazione sono di Alessandro Censi, che ne resta l'autore e il titolare dei diritti.
+
+5. Nessuna garanzia. UltraCal è fornito «così com'è», senza garanzie di alcun tipo, nei limiti consentiti dalla legge. Controlla sempre gli appuntamenti importanti anche nel calendario originale del tuo account.
+
+6. Limitazione di responsabilità. Nei limiti massimi consentiti dalla legge, l'autore non è responsabile per danni diretti o indiretti, perdita di dati, di appuntamenti o di guadagni derivanti dall'uso o dall'impossibilità di usare UltraCal. Restano salvi i diritti che la legge riconosce in modo inderogabile ai consumatori.
+
+7. Durata. La licenza vale finché ne rispetti le condizioni. Se le violi (per esempio vendendo l'app), il permesso di usarla e distribuirla termina.
+
+8. Legge applicabile. Questa licenza è regolata dalla legge italiana.
+
+Contatti: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
+
+
+────────────────────────────────────────
+
+ULTRACAL — FREE LICENCE
+© 2026 Alessandro Censi
+
+UltraCal is free software in the sense of free of charge: anyone may have it, use it and pass it on. The only thing you may not do is make money by selling or renting it.
+
+1. What you may do, free of charge:
+   • install and use UltraCal on as many Macs as you like, for personal, professional, educational or club use;
+   • copy and share it freely with anyone (friends, colleagues, students, associations, websites and groups), including publishing it online, as long as it is free of charge and unchanged, i.e. the original file with this licence.
+
+2. What you may not do:
+   • sell UltraCal or charge for it in any form (price, rental, subscription, a "mandatory contribution" to download it);
+   • include it for a fee in bundles, collections or services, or use it as a commodity to make a profit;
+   • modify, decompile or redistribute altered versions of it, except where expressly permitted by law;
+   • remove or change the author's name, copyright notices or this licence.
+
+3. Your data. Calendars, events, reminders and tasks remain yours. UltraCal reads them through the Mac's system and does not send them to external servers; for the weather it asks Open-Meteo for forecasts giving only the location, and Todoist connects only if you turn it on.
+
+4. Author. UltraCal, its code, icon, name and documentation belong to Alessandro Censi, who remains the author and rights holder.
+
+5. No warranty. UltraCal is provided "as is", without warranties of any kind, to the extent permitted by law. Always double-check important appointments in your account's original calendar as well.
+
+6. Limitation of liability. To the maximum extent permitted by law, the author is not liable for any direct or indirect damage, loss of data, appointments or profits arising from the use of, or inability to use, UltraCal. This does not affect the mandatory rights that the law grants to consumers.
+
+7. Term. This licence remains in effect as long as you respect its terms. If you breach them (for example by selling the app), your permission to use and distribute it ends.
+
+8. Governing law. This licence is governed by Italian law.
+
+Contact: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
