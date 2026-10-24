@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.3 — 2026-10-24
+
+**Nuova icona**
+- *Nuovo* — Nuova icona: la U di UltraCal disegnata con i giorni del mese, oggi in rosso. Anche l'icona del Dock con la data ha il nuovo stile.
+
+*English* — **New icon**
+- *New* — New icon: UltraCal's U drawn with the days of the month, today in red. The Dock icon with the date has the new style too.
+
 ## 1.5.2 — 2026-10-24
 
 **Aggiornamenti automatici**
