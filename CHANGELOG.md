@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.6 — 2026-10-25
+
+**Colore principale in tutte le grafiche**
+- *Nuovo* — Impostazioni › Aspetto › Grafica › Colore principale: il colore scelto vale in tutte le grafiche (Classica, Solari, Mosaico e Fiume). "Automatico" usa il colore proprio della grafica; il testo sopra il colore resta sempre leggibile.
+
+*English* — **Main colour in every look**
+- *New* — Settings › Appearance › Look › Main colour: the chosen colour applies to every look (Classic, Solari, Mosaico and Fiume). "Automatic" uses the look's own colour; text on top of the colour always stays readable.
+
 ## 1.5.5 — 2026-10-25
 
 **Icona nel Dock e numeri di Solari**
