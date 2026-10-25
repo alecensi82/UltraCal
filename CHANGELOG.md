@@ -1,6 +1,20 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.5 — 2026-10-25
+
+**Icona nel Dock e numeri di Solari**
+- *Nuovo* — Impostazioni › Aspetto › Barra dei menu e Dock: "Icona nel Dock" sceglie tra la U di UltraCal (predefinita) e la data di oggi.
+- *Nuovo* — Il contatore sull'icona può mostrare tutti gli eventi e promemoria di oggi.
+- *Migliorato* — Grafica Solari: i numeri dei giorni nella griglia sono più grandi e senza la riga a metà.
+- *Corretto* — Dopo un aggiornamento automatico Finder e Dock mostrano subito la nuova icona.
+
+*English* — **Dock icon and Solari numbers**
+- *New* — Settings › Appearance › Menu bar and Dock: "Dock icon" chooses between UltraCal's U (default) and today's date.
+- *New* — The icon badge can show all of today's events and reminders.
+- *Improved* — Solari look: day numbers in the grid are larger and without the line across the middle.
+- *Fixed* — After an automatic update, Finder and the Dock show the new icon right away.
+
 ## 1.5.4 — 2026-10-24
 
 **Anniversari dai Contatti**
