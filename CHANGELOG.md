@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.8 — 2026-10-25
+
+**Temi anche per Solari, Mosaico e Fiume**
+- *Nuovo* — Impostazioni › Aspetto › Tema: con Solari, Mosaico o Fiume si può scegliere uno qualunque dei 15 temi (chiari, scuri, grafite, blu notte…) oppure "Originale della grafica". Tessere e riquadri si adattano allo sfondo; il tema della Classica resta memorizzato a parte.
+
+*English* — **Themes for Solari, Mosaico and Fiume too**
+- *New* — Settings › Appearance › Theme: with Solari, Mosaico or Fiume you can choose any of the 15 themes (light, dark, graphite, midnight blue…) or "Look's original". Tiles and panels adapt to the background; the Classic look's theme is kept separately.
+
 ## 1.5.7 — 2026-10-25
 
 **Solari con il colore scelto**
