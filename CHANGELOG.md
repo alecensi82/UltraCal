@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.7 — 2026-10-25
+
+**Solari con il colore scelto**
+- *Corretto* — Grafica Solari: anche la palette del giorno di oggi segue il colore principale scelto (prima restava gialla).
+
+*English* — **Solari with the chosen colour**
+- *Fixed* — Solari look: today's flap also follows the chosen main colour (it used to stay yellow).
+
 ## 1.5.6 — 2026-10-25
 
 **Colore principale in tutte le grafiche**
