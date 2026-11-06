@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.9 — 2026-11-06
+
+**Aggiunta rapida più precisa**
+- *Corretto* — Aggiunta rapida: un orario scritto col punto (es. "cena venerdì alle 18.30") non viene più scambiato per una data, e il nome del giorno non resta nel titolo.
+
+*English* — **More accurate quick add**
+- *Fixed* — Quick add: a time written with a dot (e.g. "cena venerdì alle 18.30") is no longer mistaken for a date, and the day name no longer stays in the title.
+
 ## 1.5.8 — 2026-10-25
 
 **Temi anche per Solari, Mosaico e Fiume**
