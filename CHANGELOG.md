@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.10 — 2026-11-08
+
+**Scorrimento continuo**
+- *Migliorato* — Viste Mese, Trimestre e Semestre: con la rotella o il trackpad il calendario scorre in modo continuo, riga per riga, invece di saltare di una settimana alla volta.
+
+*English* — **Continuous scrolling**
+- *Improved* — Month, Quarter and Half-year views: with the mouse wheel or trackpad the calendar scrolls continuously, row by row, instead of jumping a week at a time.
+
 ## 1.5.9 — 2026-11-06
 
 **Aggiunta rapida più precisa**
