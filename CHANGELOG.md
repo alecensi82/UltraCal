@@ -1,6 +1,16 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.11 — 2026-11-09
+
+**Nuovo evento più semplice**
+- *Corretto* — Nuovo evento: la data di fine non salta più di mesi quando si crea un evento in un giorno lontano; inizio e fine sono nello stesso giorno, con la durata predefinita.
+- *Migliorato* — Avvisi: "Aggiungi avviso" mostra subito tutte le scelte (all'ora dell'evento, 15 minuti, 1 ora, 1 giorno, 1 settimana prima…).
+
+*English* — **Simpler new event**
+- *Fixed* — New event: the end date no longer jumps months ahead when you create an event on a distant day; start and end are on the same day, with the default duration.
+- *Improved* — Alerts: "Add alert" shows every choice right away (at time of event, 15 minutes, 1 hour, 1 day, 1 week before…).
+
 ## 1.5.10 — 2026-11-08
 
 **Scorrimento continuo**
