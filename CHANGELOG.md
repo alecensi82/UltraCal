@@ -1,6 +1,14 @@
 # UltraCal — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5.12 — 2026-11-13
+
+**Tema Notte**
+- *Nuovo* — Nuovo tema Notte, ispirato a PhotoBoard: blu notte profondo con aloni viola e petrolio e accento ciano (Impostazioni › Aspetto › Tema). Vale anche con Solari, Mosaico e Fiume.
+
+*English* — **Night theme**
+- *New* — New Night theme, inspired by PhotoBoard: deep midnight blue with violet and petrol glows and a cyan accent (Settings › Appearance › Theme). It also works with Solari, Mosaico and Fiume.
+
 ## 1.5.11 — 2026-11-09
 
 **Nuovo evento più semplice**
